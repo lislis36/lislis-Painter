@@ -15,4 +15,4 @@ HTML5 based painting application.
   * {lislis Painter Gallery}[http://lislis.sakura.ne.jp/canvas/paint/gallery/lislispainter_gallery01.php]
 
 * author's blog(written in Japanese)
-  * {‚è‚·ŒŠ‚³‚­‚ç}[http://lislis.sblo.jp/]
+  * {ã‚Šã™ç©´ã•ãã‚‰}[http://lislis.sblo.jp/]
